@@ -32,10 +32,8 @@ public class MesQueRepresenta {
                 System.out.println("O número " + num + " representa o mês de Novembro");
             } else if (num == 12) {
                 System.out.println("O número " + num + " representa o mês de Dezembro");
-            } else if  (num > 12 && num < 1) {
-                System.out.println("Eu pedi para Digitar um número de 1 a 12, tente novamente.");
             } else {
-                System.out.println("Digite um número inteiro de 1 a 12");
+                System.out.println("Eu pedi para Digitar um número de 1 a 12, tente novamente.");
             }
         } catch (Exception e) {
             System.out.println("Digite um número válido.");

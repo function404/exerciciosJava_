@@ -5,7 +5,7 @@ public class SalarioImposto {
       Scanner scanner = new Scanner(System.in);
 
       try {
-         System.out.println("Digite o valor do salrio: ");
+         System.out.println("Digite o valor do salario: ");
          double salario = scanner.nextDouble();
 
          if (salario <= 1903.98) {

@@ -6,13 +6,13 @@ public class Fatorial {
    
       try {
          System.out.println("Digite um número: ");
-         int num = scanner.nextInt();
+         double num = scanner.nextDouble();
    
          if (num < 0) {
             System.out.println("Digite um número positivo.");
          } else {
-            int fatorial = 1;
-            for (int i = 1; i <= num; i++) {
+            double fatorial = 1;
+            for (double i = 1; i <= num; i++) {
                fatorial *= i;
             }
    

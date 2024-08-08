@@ -6,6 +6,6 @@ public class SomaImparesMultiplosDeSete {
             soma += i;
          }
       }
-      System.out.println("A soma dos números ímpares múltiplos de 7 entre 1 e 1000 é: " + soma);
+      System.out.println("A soma dos números ímpares múltiplos de 7 entre 1 e 500 é: " + soma);
    }  
 }
