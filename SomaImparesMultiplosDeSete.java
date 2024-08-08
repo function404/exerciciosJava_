@@ -1,5 +1,3 @@
-package Java;
-
 public class SomaImparesMultiplosDeSete {
    public static void main(String[] args) {
       int soma = 0;

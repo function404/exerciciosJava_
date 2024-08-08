@@ -1,5 +1,3 @@
-package Java;
-
 public class StringParaInteiro {
    public static void main(String[] args) {
       String str = "22.22";
