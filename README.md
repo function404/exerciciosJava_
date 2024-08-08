@@ -34,7 +34,7 @@
 
 - Java
 
-- Debugger for Java (Extensão VSCode)
+- Extension Pack for Java (Extensão VSCode)
 
 ###
 
@@ -59,7 +59,7 @@
 
 3. **Instale a extensão no VSCode:**
 
-    `Debugger for Java`
+    `Extension Pack for Java`
 
 4. **Execute o programa:**
 
