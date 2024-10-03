@@ -1,4 +1,4 @@
-<h1 align="left">☕Exercícios Básico em Java</h1>
+<h1 align="left">☕Exercícios Básicos em Java</h1>
 
 ###
 
